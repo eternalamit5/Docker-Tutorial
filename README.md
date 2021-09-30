@@ -10,4 +10,4 @@ This is a comprehensive step by step tutorial on docker. The tutorial consists o
 - Kubernetes (coming soon)
 - Docker in production (coming soon)
 
-Note: Please see the  for complete tutorial steps
+Note: Please see the CompleteTutorial.md for for step by step by installation and guide.
